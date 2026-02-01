@@ -1,0 +1,2 @@
+# J.A.R.V.I.S-AI-powered-conversational-assistant-
+J.A.R.V.I.S is an open-source, AI-powered conversational assistant designed to understand natural language, maintain context, and generate intelligent responses. Built for learning and experimentation, it demonstrates the core concepts behind modern large language model–based chat systems, including prompt handling and extensible AI integrations.
